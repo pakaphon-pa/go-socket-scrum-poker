@@ -12,8 +12,6 @@ Built with **Golang** (backend), **Next.js** (frontend), and **Docker Compose** 
 - **In-Room Chat** – Communicate instantly while estimating.
 - **WebSocket Support** – Live room and chat updates without refreshing.
 
-> This is the **MVP scope** — voting, reveal, and persistence will be added in later milestones.
-
 ---
 
 ## 🛠 Tech Stack
